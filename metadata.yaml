@@ -1,0 +1,32 @@
+_repo: Martin-Van-Buren_41634
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Shepard, Edward Morse
+    alias: Shepard, Edward M.
+    birthdate: 1850
+    deathdate: 1911
+    gutenberg_agent_id: '41276'
+    url: http://www.gutenberg.org/2009/agents/41276
+description: ''
+gutenberg_issued: '2012-12-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41634'
+  lccn: '99000657'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: American Statesmen, Volume 18
+subjects:
+- !lcc 'E300'
+- !lcsh 'United States -- Politics and government -- 1837-1841'
+- !lcsh 'United States -- Politics and government -- 1829-1837'
+- !lcsh 'Van Buren, Martin, 1782-1862'
+- !lcsh 'Presidents -- United States -- Biography'
+title: Martin Van Buren
+url: http://www.gutenberg.org/ebooks/41634
